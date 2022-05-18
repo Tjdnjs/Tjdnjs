@@ -1,4 +1,4 @@
-[![Tjdnjs's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tjdnjs)](https://github.com/Tjdnjs/github-readme-stats)
+
 <h3 align="center">⚡ GitHub Status ⚡</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tjdnjs&show_icons=true&theme=tokyonight&icon_color=AA0017">
