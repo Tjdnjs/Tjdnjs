@@ -1,3 +1,5 @@
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tjdnjs&repo=Tjdnjs&theme=dark&hide_border=true)](https://github.com/Tjdnjs/ViewCloset_deeplearning)
+[출처] [Github] 프로필 디자인하기|작성자 오리
 <h3 align="center">⚡ GitHub Status ⚡</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tjdnjs&show_icons=true&theme=tokyonight&icon_color=AA0017">
