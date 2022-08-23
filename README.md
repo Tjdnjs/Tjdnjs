@@ -17,6 +17,7 @@
 
 </p>
 
+<br>
 
 <h3 align="center">⚡ GitHub Status ⚡</h3>
 <p align="center">
@@ -29,6 +30,7 @@
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=2seowon">
 </p>
 
+<br>
 
 <h3 align="center">📫 How to reach me 📫</h3>
 <p align="center">
