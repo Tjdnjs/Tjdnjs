@@ -19,11 +19,15 @@
 
 <br>
 
+<p align = "center">
 <h3 align="center">⚡ Status ⚡</h3>
 
 |GitHub|Baekjoon|
 |:---:|:---:|
 | <img src="https://github-readme-stats.vercel.app/api?username=Tjdnjs&show_icons=true&theme=tokyonight&icon_color=AA0017"> |<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=2seowon">|
+
+</p>
+
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=Tjdnjs&show_icons=true&theme=tokyonight&icon_color=AA0017"> -->
 
 
