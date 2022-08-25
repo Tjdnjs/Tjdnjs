@@ -33,6 +33,5 @@ Tech Blog : [https://tjdnjs.github.io](https://tjdnjs.github.io/)
 
 <h3 align="center">📫 How to reach me 📫</h3>
 <p align="center">
-
-  <a href="https://www.instagram.com/s__won_._/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=INSTAGRAM&logoColor=white"/></a>
+  <a href="https://www.instagram.com/s__won_._/" target="_blank" align = "center"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=INSTAGRAM&logoColor=white"/></a>
 </p>
