@@ -1,7 +1,7 @@
 Tech Blog : [https://tjdnjs.github.io](https://tjdnjs.github.io/)
 
 
-<h3 align="center">⚡ Status ⚡</h3>
+<h3>⚡ Status</h3>
 
 |GitHub|Baekjoon|
 |:---:|:---:|
@@ -10,7 +10,7 @@ Tech Blog : [https://tjdnjs.github.io](https://tjdnjs.github.io/)
 
 <br>
 
-<h3 align="center">💻 Skills 💻</h3>
+<h3>💻 Skills</h3>
 
 <p align="center">
   
@@ -31,7 +31,7 @@ Tech Blog : [https://tjdnjs.github.io](https://tjdnjs.github.io/)
 
 <br>
 
-<h3 align="center">📫 How to reach me 📫</h3>
-<p align="center">
-  <a href="https://www.instagram.com/s__won_._/" target="_blank" align = "center"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=INSTAGRAM&logoColor=white"/></a>
-</p>
+<h3>📫 How to reach me</h3>
+
+  <a href="https://www.instagram.com/s__won_._/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=INSTAGRAM&logoColor=white"/></a>
+
