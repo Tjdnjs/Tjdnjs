@@ -34,5 +34,5 @@ Tech Blog : [https://tjdnjs.github.io](https://tjdnjs.github.io/)
 <h3 align="center">📫 How to reach me 📫</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/EMAIL-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link={2seowon@naver.com}"/></a>&nbsp
-  ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link={https://www.instagram.com/s__won_._/})
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link={https://www.instagram.com/s__won_._/})]({https://www.instagram.com/s__won_._/})
 </p>
