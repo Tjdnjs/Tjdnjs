@@ -19,17 +19,20 @@
 
 <br>
 
-<h3 align="center">⚡ GitHub Status ⚡</h3>
+<h3 align="center">⚡ Status ⚡</h3>
+
+|GitHub|Baekjoon|
+|:---:|:---:|
 | <img src="https://github-readme-stats.vercel.app/api?username=Tjdnjs&show_icons=true&theme=tokyonight&icon_color=AA0017"> |<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=2seowon">|
-  <img src="https://github-readme-stats.vercel.app/api?username=Tjdnjs&show_icons=true&theme=tokyonight&icon_color=AA0017">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Tjdnjs&show_icons=true&theme=tokyonight&icon_color=AA0017"> -->
 
 
-<br>
+<!-- <br>
 
 <h3 align="center">⚡ Baekjoon Status ⚡</h3>
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=2seowon">
-</p>
+</p> -->
 
 <br>
 
