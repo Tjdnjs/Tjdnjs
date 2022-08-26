@@ -1,5 +1,3 @@
-Email : [naver mail](mailto:2seowon@naver.com)
-
 Tech Blog : [https://tjdnjs.github.io](https://tjdnjs.github.io/)
 
 
@@ -25,5 +23,5 @@ Tech Blog : [https://tjdnjs.github.io](https://tjdnjs.github.io/)
 
 <h2>📫 How to reach me</h2>
 
-  <a href="https://www.instagram.com/s__won_._/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=INSTAGRAM&logoColor=white"/></a>
-
+<a href="https://www.instagram.com/s__won_._/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=INSTAGRAM&logoColor=white"/></a>
+<a href="mailto:2seowon@naver.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-00C300?style=for-the-badge&logo=gmail&logoColor=white"/></a>
