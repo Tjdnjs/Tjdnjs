@@ -1,6 +1,7 @@
 <h1>Hi, I'm Park Seowon</h1>
 
-Tech Blog : [https://tjdnjs.github.io](https://tjdnjs.github.io/)
+- HUFS CE 21
+- Tech Blog : [https://tjdnjs.github.io](https://tjdnjs.github.io/)
 
 
 <h2>⚡ Status</h2>
