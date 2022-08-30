@@ -10,9 +10,9 @@
 
 <div>
 
-<img align="left" width="500px" src="https://github-readme-stats.vercel.app/api?username=Tjdnjs&show_icons=true&theme=tokyonight&icon_color=AA0017"> 
+<img align="left" width="450px" src="https://github-readme-stats.vercel.app/api?username=Tjdnjs&show_icons=true&theme=tokyonight&icon_color=AA0017"> 
 
-<img width="400px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=2seowon">
+<img width="360px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=2seowon">
 
 </div>
 
@@ -22,7 +22,7 @@
 
 <div>
 
- <img align="left" width ="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tjdnjs&layout=compact&langs_count=10"/>
+ <img align="left" width ="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tjdnjs&layout=compact&langs_count=10"/>
   
 |Part|Skills|
 |:---|:---|
