@@ -8,7 +8,7 @@
 
 <h2>⚡ Status</h2>
 
-<div align="center">
+<div>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Tjdnjs&show_icons=true&theme=tokyonight&icon_color=AA0017"> 
 
@@ -20,7 +20,7 @@
 
 <h2>💻 Skills</h2>
 
-<div align="center">
+<div>
 
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tjdnjs&layout=compact&langs_count=10"/>
   
