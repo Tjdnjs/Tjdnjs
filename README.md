@@ -8,10 +8,13 @@
 
 <h2>⚡ Status</h2>
 
-|GitHub|Baekjoon|
-|:---:|:---:|
-| <img src="https://github-readme-stats.vercel.app/api?username=Tjdnjs&show_icons=true&theme=tokyonight&icon_color=AA0017"> | <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=2seowon"> |
+<div align="center">
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Tjdnjs&show_icons=true&theme=tokyonight&icon_color=AA0017"> 
+
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=2seowon">
+
+</div>
 
 <br>
 
