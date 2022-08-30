@@ -22,7 +22,7 @@
 
 <div>
 
- <img align="left" width ="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tjdnjs&layout=compact&langs_count=10"/>
+ <img align="left" width ="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tjdnjs&langs_count=8"/>
   
 |Part|Skills|
 |:---|:---|
