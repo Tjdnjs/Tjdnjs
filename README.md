@@ -11,7 +11,6 @@
 <div>
 
 <img align="left" width="450px" src="https://github-readme-stats.vercel.app/api?username=Tjdnjs&show_icons=true&theme=tokyonight&icon_color=AA0017"> 
-
 <img width="360px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=2seowon">
 
 </div>
