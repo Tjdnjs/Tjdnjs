@@ -42,7 +42,6 @@
 |Server|<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">|
 |DataBase|<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">|
   
- 
 </div>
   
 <br><br>
