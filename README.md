@@ -1,6 +1,6 @@
 <h1>Hi, I'm Seowon Park</h1>
 
--    🏫 **HUFS CE 21**
+-     🏫 **HUFS CE 21**
 - <a href="https://tjdnjs.github.io/" target="_blank"><img src="https://img.shields.io/badge/Tech.blog-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 - <a href="https://www.notion.so/SEOWON-14570fa89952413799288b3ef7fe7091" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
