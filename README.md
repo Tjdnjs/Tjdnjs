@@ -1,4 +1,4 @@
-<h1>Hi, I'm Seowon Park</h1>
+<h1>Park Seowon</h1>
 
 -    🏫 **HUFS CE 21**
 - <a href="https://tjdnjs.github.io/" target="_blank"><img src="https://img.shields.io/badge/Tech.blog-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
