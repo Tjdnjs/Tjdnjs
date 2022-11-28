@@ -25,7 +25,7 @@
 
 <h2>🌟 Projects</h2>
 
-- [MoCL](https://mento-maracom.herokuapp.com/) : 대학생을 위한 Q&A 서비스
+- [MoCL](https://github.com/Tjdnjs/hackalearn) : 대학생을 위한 Q&A 서비스
 
 <br><br>
 
