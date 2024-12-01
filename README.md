@@ -20,6 +20,7 @@
 <h2>🧑🏻‍💻 Activities</h2>
 
 - [SOPT](https://sopt.org/) 31th Server
+- [SOPT MAKERS] (https://github.com/sopt-makers) 공식 홈페이지 Server
 
 <br><br>
 
